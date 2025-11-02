@@ -1,4 +1,8 @@
+'use client';
+import { useRouter } from 'next/navigation';
+
 export default function Header() {
+    const router = useRouter();
     return (
         <header className="fixed top-0 w-full bg-white shadow-md z-50">
             <div className="flex items-center justify-between px-[5%] py-3.5">
@@ -50,6 +54,17 @@ export default function Header() {
                                 Contato
                             </a>
                         </li>
+
+                        <li>
+                            <a
+                                href="#Login"
+                                onClick={() => router.push('/login')}
+                                className="text-[#2E5A33] font-semibold hover:text-[#F2C14E] transition-colors duration-300"
+                            >
+                                Login
+                            </a>
+                        </li>
+
                     </ul>
                 </nav>
             </div>

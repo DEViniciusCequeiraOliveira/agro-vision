@@ -1,4 +1,8 @@
+'use client';
+import { useRouter } from 'next/navigation';
+
 export default function HomePage() {
+    const router = useRouter();
     return (
         <>
             {/* Seção Home */}
@@ -23,6 +27,7 @@ export default function HomePage() {
                 </div>
             </section>
 
+         
             {/* Seção Sobre */}
             <section id="sobre" className="section py-20 px-[10%] text-center">
                 <h2 className="text-3xl font-bold text-[#2E5A33] mb-6">
