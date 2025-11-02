@@ -12,301 +12,91 @@
             "id": 1,
             "title": "🤝🏼  O que é e como criar uma cooperativa | com Alécio Mascarenhas",
             "src": "http://www.youtube.com/watch?v=dEcaUomdVmc",
-            "description": "Do canal Sebrae Talks. O vídeo detalha o que é uma cooperativa e oferece o passo a passo de como criar uma, com a participação de Alécio Mascarenhas. É uma ótima fonte de dicas para começar."
-        },
-        {
-            "id": 2,
-            "title": "Por que as cooperativas existem? – Nath Arcuri",
-            "src": "http://www.youtube.com/watch?v=AP2tE1zIIlE",
-            "description": "Do canal Sicoob. A especialista Nath Arcuri, do canal 'Me Poupe', explica de forma acessível a razão de existência e o papel das cooperativas."
+            "description": "Conteúdo fundamental para a etapa de **Formalização da cooperativa** [cite: 7], alinhado ao objetivo de apoiar a organização dos produtores de Feira de Santana[cite: 5]."
         },
         {
             "id": 3,
             "title": "Aula 2 – Princípios e Valores",
             "src": "http://www.youtube.com/watch?v=YsVq93ohfcw",
-            "description": "Do canal Sistema Ocesp. Este vídeo aborda os Princípios e Valores que regem o cooperativismo, essenciais para empreender neste modelo."
-        },
-        {
-            "id": 4,
-            "title": "7 passos simples para criar seu projeto de extensão!",
-            "src": "http://www.youtube.com/watch?v=VwV6mztn_50",
-            "description": "Dicas práticas do canal Apostileiros para criação de projetos, aplicáveis a iniciativas cooperativistas."
-        },
-        {
-            "id": 5,
-            "title": "O segredo do melhor plano estratégico para empresas REVELADO #gestão #estrategia #planejamento",
-            "src": "http://www.youtube.com/watch?v=Bl-Ph-pdFCA",
-            "description": "Conteúdo de gestão estratégica do canal Gustavo Ferreira, crucial para o planejamento de cooperativas."
+            "description": "Essencial para a **Capacitação em gestão e governança**[cite: 7], garantindo que os produtores de Feira de Santana entendam a filosofia do modelo cooperativista."
         },
         {
             "id": 6,
             "title": "Descubra UFSM 2021 - Gestão de Cooperativas",
             "src": "http://www.youtube.com/watch?v=I0SCA_dORoo",
-            "description": "Do canal Pró-reitoria de Graduação. Apresentação do curso de Gestão de Cooperativas da UFSM, com foco em habilidades gerenciais."
-        },
-        {
-            "id": 7,
-            "title": "Conheça o curso de Gestão de Cooperativas.",
-            "src": "http://www.youtube.com/watch?v=Ff-KpoMRibo",
-            "description": "Do canal Unicesumar Itapecerica da Serra. Apresentação do tecnólogo em Gestão de Cooperativas, que foca em planejar e gerenciar atividades e negócios cooperativos."
-        },
-        {
-            "id": 8,
-            "title": "Curso de Gestão de Cooperativas | UNIPAR EAD",
-            "src": "http://www.youtube.com/watch?v=ZE8Ok4xSqCc",
-            "description": "Do canal Unipar EAD. Detalhes sobre o curso de gestão que prepara profissionais para o gerenciamento de cooperativas."
+            "description": "Focado em **Gestão de Cooperativas**, tema crucial para os módulos de capacitação administrativa e financeira previstos no projeto[cite: 6]."
         },
         {
             "id": 9,
             "title": "Gestão Estratégica em Cooperativas - Aula 1",
             "src": "http://www.youtube.com/watch?v=4KyQtftZJMw",
-            "description": "Do canal IFRO Campus Porto Velho Zona Norte - EaD. Aula focada em gestão estratégica, um tema vital para o desenvolvimento de cooperativas."
-        },
-        {
-            "id": 10,
-            "title": "Curso Gestão de Cooperativas - Aula 1",
-            "src": "http://www.youtube.com/watch?v=yHt1dTYdEtQ",
-            "description": "Do canal NMC Projetos e Consultoria Ltda. Início de um curso sobre cooperativismo e gestão, ideal para obter dicas aprofundadas."
+            "description": "Diretamente relacionado ao **Planejamento Estratégico**[cite: 7], que o projeto busca construir com os produtores rurais."
         },
         {
             "id": 11,
             "title": "Estratégia e Inovação no Cooperativismo",
             "src": "http://www.youtube.com/watch?v=DOGEkRpvwbs",
-            "description": "Do canal Sistema OCB. Live com Marcos Fava Neves sobre como aplicar Estratégia e Inovação, principalmente no Cooperativismo Agro."
-        },
-        {
-            "id": 12,
-            "title": "Cooperativismo e inovação digital em saúde",
-            "src": "http://www.youtube.com/watch?v=6I1c_YfGsuE",
-            "description": "Do canal Unimed Campinas. Discute a importância da inovação digital em cooperativas da área de saúde."
+            "description": "Aplica-se à **Consolidação e Expansão** [cite: 7], buscando inovação para aumentar a competitividade dos produtores no mercado[cite: 6]."
         },
         {
             "id": 13,
             "title": "Inovação no cooperativismo - Transformando o futuro das cooperativas",
             "src": "http://www.youtube.com/watch?v=U8G3pee1DrM",
-            "description": "Do canal MundoCoop. Episódio do PapoCoop com Thiago Pandolfo sobre como a inovação está moldando o futuro das cooperativas."
-        },
-        {
-            "id": 14,
-            "title": "Seminário Inovação e Sustentabilidade no Cooperativismo - 25/05",
-            "src": "http://www.youtube.com/watch?v=MqMNZInYuCs",
-            "description": "Do canal Sistema OCB. Seminário sobre temas cruciais: inovação e sustentabilidade, que são pilares para o sucesso cooperativista."
-        },
-        {
-            "id": 15,
-            "title": "Cooperativismo, Inovação e Sistema Colaborativo.",
-            "src": "http://www.youtube.com/watch?v=eR-4fOVQqF8",
-            "description": "Do canal Faculdade Censupeg. Explica conceitos de cooperativismo e como a inovação e o sistema colaborativo se aplicam."
+            "description": "Apoia o conceito de posicionar a região de Feira de Santana como polo de referência em **inovação** e gestão no setor agrícola[cite: 9]."
         },
         {
             "id": 16,
             "title": "História de sucesso cooperativista",
             "src": "http://www.youtube.com/watch?v=Dtt-SQCk824",
-            "description": "Do canal Ric Rural. Reportagem sobre a importância social e econômica do cooperativismo, mostrando um caso de sucesso."
-        },
-        {
-            "id": 17,
-            "title": "A Transformadora História de uma Cooperativa de Sucesso | Priscilia Queiroz",
-            "src": "http://www.youtube.com/watch?v=gC9351xLluc",
-            "description": "Do canal PRISCILIA QUEIROZ. História da Coopercica, uma cooperativa de consumo de sucesso que começou de forma simples."
-        },
-        {
-            "id": 18,
-            "title": "A história de sucesso do jovem maranhense que fundou uma cooperativa com apenas 18 anos",
-            "src": "http://www.youtube.com/watch?v=VvIa3rFcUFg",
-            "description": "Do canal SistemaOCB SESCOOPMA. Inspiração de empreendedorismo juvenil no cooperativismo."
+            "description": "Serve como inspiração para os produtores-alvo [cite: 7], demonstrando a **importância social e econômica** do cooperativismo[cite: 9]."
         },
         {
             "id": 19,
             "title": "VISITAMOS uma das Maiores Cooperativas do Mundo",
             "src": "http://www.youtube.com/watch?v=rY7fnnIC8YA",
-            "description": "Do canal Curioso Mercado. Visita à Cooperativa Agrária, destacando sua gestão e presença no mercado de malte."
-        },
-        {
-            "id": 20,
-            "title": "A história da primeira cooperativa do Oeste do Paraná",
-            "src": "http://www.youtube.com/watch?v=nYlZn5KWcoQ",
-            "description": "Do canal Ric Rural. História inspiradora da primeira cooperativa da região, com detalhes sobre seu início e crescimento."
-        },
-        {
-            "id": 21,
-            "title": "PAPO COOP #3 - Emanuel Malta / QUAIS OS DESAFIOS DA SUA COOPERATIVA?",
-            "src": "http://www.youtube.com/watch?v=Ebe5K_gAZ8A",
-            "description": "Do canal MundoCoop. Debate sobre as maiores barreiras e desafios que as cooperativas enfrentam em seu desenvolvimento."
-        },
-        {
-            "id": 22,
-            "title": "Cooperativismo: desafios para o futuro",
-            "src": "http://www.youtube.com/watch?v=wxchRiAHKpI",
-            "description": "Do canal Balanço Geral Oeste. Reportagem sobre a qualificação no setor e os desafios futuros do cooperativismo."
+            "description": "Exemplo de **grande escala e gestão** , útil para mostrar as perspectivas de crescimento e **sustentabilidade** de longo prazo[cite: 9]."
         },
         {
             "id": 23,
             "title": "Planejamento estratégico para cooperativas de pequeno e médio porte: desafios e boas práticas",
             "src": "http://www.youtube.com/watch?v=7lI4g1VTKYo",
-            "description": "Do canal Faculdade Unimed. Aborda a importância do planejamento estratégico e como superar os desafios em cooperativas menores."
-        },
-        {
-            "id": 24,
-            "title": "Remy Neto e Paulo Teixeira - Desafios do Cooperativismo",
-            "src": "http://www.youtube.com/watch?v=TJzJn0D9ua8",
-            "description": "Do canal Sistema OCB DF. Discussão sobre os desafios de manter a cooperação em um mundo competitivo."
-        },
-        {
-            "id": 25,
-            "title": "DESAFIOS do COOPERATIVISMO",
-            "src": "http://www.youtube.com/watch?v=Uoby55OP5Bc",
-            "description": "Do canal Venus Podcast. Vídeo curto destacando a complexidade e os desafios inerentes ao modelo cooperativista."
-        },
-        {
-            "id": 26,
-            "title": "Cooperativismo financeiro: o que é e como funciona?",
-            "src": "http://www.youtube.com/watch?v=5rLzE22262k",
-            "description": "Do canal Sicoob. Explicação fundamental sobre o modelo de cooperativismo de crédito e seus benefícios para os cooperados."
-        },
-        {
-            "id": 27,
-            "title": "Sebrae Talks - Cooperativismo de Crédito",
-            "src": "http://www.youtube.com/watch?v=8V-J9Q3k7qI",
-            "description": "Do canal Sebrae Talks. Debate sobre as vantagens e o funcionamento do cooperativismo de crédito para empreendedores."
-        },
-        {
-            "id": 28,
-            "title": "A força do cooperativismo financeiro",
-            "src": "http://www.youtube.com/watch?v=jW7mXg37pP0",
-            "description": "Do canal Sistema OCB. Apresentação do impacto e da importância do sistema financeiro cooperativo na economia."
-        },
-        {
-            "id": 29,
-            "title": "COOPERATIVISMO DE CRÉDITO: O que é, como funciona e por que é bom para você?",
-            "src": "http://www.youtube.com/watch?v=J_j8g81nJbI",
-            "description": "Do canal Investidor Sardinha. Análise detalhada de como o cooperativismo financeiro pode ser uma boa opção para o indivíduo e o empreendedor."
-        },
-        {
-            "id": 30,
-            "title": "Conheça as vantagens do cooperativismo de crédito",
-            "src": "http://www.youtube.com/watch?v=1F1-q9M7nks",
-            "description": "Do canal Sicredi. Vídeo que destaca os benefícios e vantagens de fazer parte de uma cooperativa de crédito."
+            "description": "Endereça a necessidade de um **Planejamento Estratégico** [cite: 7] para cooperativas de pequeno e médio porte, público-alvo do projeto[cite: 7]."
         },
         {
             "id": 31,
             "title": "Cooperativismo Agropecuário: gestão, desafios e perspectivas",
             "src": "http://www.youtube.com/watch?v=Q-9Xv8zN88g",
-            "description": "Do canal Sistema OCB. Discussão aprofundada sobre o modelo de gestão, os desafios e as perspectivas futuras no agronegócio cooperativo."
-        },
-        {
-            "id": 32,
-            "title": "Papo de Mercado | A evolução do cooperativismo agropecuário no Brasil",
-            "src": "http://www.youtube.com/watch?v=gT83Yn8Kj7M",
-            "description": "Do canal Jornal Dia de Campo. Análise da evolução histórica e do cenário atual do cooperativismo no setor agropecuário brasileiro."
+            "description": "Diretamente ligado ao escopo do projeto, que foca no **agronegócio** [cite: 5] e visa melhorar a produtividade agrícola[cite: 6]."
         },
         {
             "id": 33,
             "title": "Cooperativismo Agro: A Importância das Cooperativas na Agricultura",
             "src": "http://www.youtube.com/watch?v=68E6p1i-v6Y",
-            "description": "Do canal MundoCoop. Destaca o papel essencial das cooperativas para o desenvolvimento e a sustentabilidade da agricultura."
-        },
-        {
-            "id": 34,
-            "title": "A força do Cooperativismo Agropecuário",
-            "src": "http://www.youtube.com/watch?v=M5e_pYf-T6s",
-            "description": "Do canal O Presente Rural. Reportagem que demonstra o poder e a força do sistema cooperativo no agronegócio."
-        },
-        {
-            "id": 35,
-            "title": "O papel do cooperativismo agropecuário para o desenvolvimento do Paraná",
-            "src": "http://www.youtube.com/watch?v=hB2Xp2-W780",
-            "description": "Do canal Ocepar. Case de sucesso focado no impacto do cooperativismo agropecuário no desenvolvimento econômico regional."
-        },
-        {
-            "id": 36,
-            "title": "Seminário Nacional de Inovação e Sustentabilidade do Cooperativismo - 2024",
-            "src": "http://www.youtube.com/watch?v=Kz1t8v6Z_zM",
-            "description": "Do canal Sistema OCB. Cobertura de um seminário com foco em inovação e sustentabilidade, trazendo as últimas tendências e dicas."
-        },
-        {
-            "id": 37,
-            "title": "Painel: O Cooperativismo em transformação e os novos modelos de negócio",
-            "src": "http://www.youtube.com/watch?v=0kH8T0gNq7s",
-            "description": "Do canal MundoCoop. Painel de discussão sobre as mudanças no cooperativismo e a emergência de novos modelos de negócios."
-        },
-        {
-            "id": 38,
-            "title": "MundoCoop ao vivo | 5º Seminário de Comunicação e Marketing do Cooperativismo Paulista",
-            "src": "http://www.youtube.com/watch?v=N4tL4nQ8v-Y",
-            "description": "Do canal MundoCoop. Conteúdo sobre comunicação e marketing, áreas vitais para o crescimento e a visibilidade de cooperativas."
-        },
-        {
-            "id": 39,
-            "title": "Seminário de Gestão Estratégica para Cooperativas",
-            "src": "http://www.youtube.com/watch?v=kY6M8P8v9vQ",
-            "description": "Do canal Sistema OCB Amapá. Sessão sobre a aplicação de gestão estratégica especificamente para o ambiente cooperativista."
-        },
-        {
-            "id": 40,
-            "title": "Seminário Estratégico do Cooperativismo Capixaba",
-            "src": "http://www.youtube.com/watch?v=wX-yvH2_eEw",
-            "description": "Do canal Sistema OCB-ES. Discussões estratégicas sobre o desenvolvimento do cooperativismo em nível regional."
+            "description": "Reforça a **relevância** do projeto para a agricultura familiar em Feira de Santana e o **fortalecimento** das cadeias produtivas[cite: 9]."
         },
         {
             "id": 41,
             "title": "O Poder da Cooperação - Dicas de gestão para cooperativas",
-            "src": "http://www.youtube.com/watch?v=34d7u6f7J-Q",
-            "description": "Do canal Sistema OCB. Vídeo focado em dicas práticas de gestão que potencializam o poder da cooperação."
-        },
-        {
-            "id": 42,
-            "title": "5 Dicas para Cooperativas de Sucesso",
-            "src": "http://www.youtube.com/watch?v=aG0Oa7y4Z_Y",
-            "description": "Do canal Sicoob. Compilação de 5 dicas essenciais para alcançar o sucesso e a sustentabilidade no modelo cooperativo."
-        },
-        {
-            "id": 43,
-            "title": "Dicas para o Cooperativismo de Crédito – Parte 1",
-            "src": "http://www.youtube.com/watch?v=h-h_jQ6pBvk",
-            "description": "Do canal FundoGarantidorCoop. Dicas específicas e regulatórias para a área de cooperativismo de crédito."
+            "src": "http://www.youtube.com/watch?v=34d7u6f7J-4",
+            "description": "Oferece **dicas práticas de gestão** [cite: 6], essenciais para a profissionalização e o aumento da eficiência administrativa[cite: 9]."
         },
         {
             "id": 44,
             "title": "Dicas de gestão financeira para cooperativas de crédito",
             "src": "http://www.youtube.com/watch?v=w_rYQ4bN108",
-            "description": "Do canal Sicoob. Orientações focadas na gestão financeira eficiente, um aspecto crítico para o empreendedorismo."
-        },
-        {
-            "id": 45,
-            "title": "Dica de Sucesso: Cooperativa Agropecuária Cooxupé",
-            "src": "http://www.youtube.com/watch?v=k9A3z_7h-lU",
-            "description": "Do canal Rede Massa. Case de sucesso da Cooxupé, uma das maiores cooperativas de café do mundo, com dicas implícitas de escala e gestão."
+            "description": "Apoia a **capacitação em gestão financeira** [cite: 6] e a orientação no **acesso a linhas de crédito**[cite: 6], foco do projeto."
         },
         {
             "id": 46,
             "title": "A Força da Intercooperação no Cooperativismo",
             "src": "http://www.youtube.com/watch?v=9M_22uPqj_4",
-            "description": "Do canal Sistema OCB. Explica o princípio da intercooperação e como ele pode impulsionar o empreendedorismo."
-        },
-        {
-            "id": 47,
-            "title": "7º Princípio do Cooperativismo - Interesse pela Comunidade",
-            "src": "http://www.youtube.com/watch?v=uK1X87rR49U",
-            "description": "Do canal Unimed Rio Preto. Detalha o 7º princípio, mostrando a responsabilidade social da cooperativa, importante para o valor da marca."
-        },
-        {
-            "id": 48,
-            "title": "Como o Cooperativismo ajuda o MEI",
-            "src": "http://www.youtube.com/watch?v=7g23h9t1h1c",
-            "description": "Do canal Sicredi. Explica como o Microempreendedor Individual (MEI) pode se beneficiar ao se juntar ou criar uma cooperativa."
+            "description": "Pode ser usado para incentivar a colaboração entre as cooperativas formadas e as existentes, como a **UNICAFES Bahia**."
         },
         {
             "id": 49,
             "title": "Cooperativismo é um bom negócio? Vale a pena?",
             "src": "http://www.youtube.com/watch?v=7fJ1mF4QvWw",
-            "description": "Do canal Sebrae Talks. Discussão sobre a viabilidade e o potencial de retorno do cooperativismo como modelo de negócio empreendedor."
-        },
-        {
-            "id": 50,
-            "title": "Direito e Cooperativismo - Dicas e Estrutura Legal",
-            "src": "http://www.youtube.com/watch?v=KzE_1n5tE2L",
-            "description": "Do canal CERS. Aborda os aspectos legais e a estrutura jurídica necessária para a fundação e operação de cooperativas."
+            "description": "Vídeo ideal para a etapa de **Diagnóstico e mobilização** [cite: 7], ajudando a sensibilizar os produtores sobre o potencial econômico do cooperativismo[cite: 9]."
         }
     ]
 }
