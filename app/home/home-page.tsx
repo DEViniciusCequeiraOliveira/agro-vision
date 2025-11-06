@@ -27,7 +27,7 @@ export default function HomePage() {
                 </div>
             </section>
 
-         
+
             {/* Seção Sobre */}
             <section id="sobre" className="section py-20 px-[10%] text-center">
                 <h2 className="text-3xl font-bold text-[#2E5A33] mb-6">
@@ -104,21 +104,24 @@ export default function HomePage() {
                 <h2 className="text-3xl font-bold text-[#2E5A33] mb-6">Nossa Equipe</h2>
                 <div className="team flex flex-wrap justify-center gap-6 mt-8">
                     {[
-                        { nome: "Joanderson Macedo" },
-                        { nome: "Vinícius Cerqueira" },
-                        { nome: "Victoria Luiza" },
-                        { nome: "Caio Sampaio" },
-                        { nome: "Leila Oliveira", },
+                        { nome: "Caio Sampaio Santana" },
+                        { nome: "Diwary Ângelo Araújo Lima" },
+                        { nome: "Ingrid Franca de Carvalho" },
+                        { nome: "Joanderson Macedo da Silva" },
+                        { nome: "José Antônio Barreiros Dantas" },
+                        { nome: "Sandy de Almeida Carneiro" },
+                        { nome: "Victoria Luiza Magalhães Lima" },
+                        { nome: "Vinícius Cerqueira Oliveira" }
                     ].map((membro) => (
-                        <div
-                            key={membro.nome}
-                            className="bg-white p-5 rounded-xl shadow-md w-56"
-                        >
-                            <h3 className="text-lg font-semibold text-[#2E5A33] mb-1">
-                                {membro.nome}
-                            </h3>
-                        </div>
-                    ))}
+                            <div
+                                key={membro.nome}
+                                className="bg-white p-5 rounded-xl shadow-md w-56"
+                            >
+                                <h3 className="text-lg font-semibold text-[#2E5A33] mb-1">
+                                    {membro.nome}
+                                </h3>
+                            </div>
+                        ))}
                 </div>
             </section>
 

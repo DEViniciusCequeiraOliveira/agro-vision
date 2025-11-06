@@ -9,10 +9,8 @@ export default function Header() {
   return (
     <header className="fixed top-0 w-full bg-white shadow-md z-50">
       <div className="flex items-center justify-between px-[5%] py-3.5">
-        {/* Logo */}
         <img src="logo.png" alt="Logo AgroVision" className="h-16" />
 
-        {/* Menu desktop */}
         <nav>
           <ul className="hidden md:flex gap-5 list-none items-center">
             <li>
@@ -50,7 +48,6 @@ export default function Header() {
             </li>
           </ul>
 
-          {/* Hamburger mobile */}
           <div className="md:hidden">
             <button
               onClick={() => setIsOpen(!isOpen)}
@@ -72,7 +69,6 @@ export default function Header() {
         </nav>
       </div>
 
-      {/* Menu mobile */}
       {isOpen && (
         <div className="md:hidden bg-white shadow-md">
           <ul className="flex flex-col gap-4 p-4">
